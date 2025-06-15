@@ -1,0 +1,23 @@
+# Ignore compiled class files
+/out/
+*.class
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files (Mac/Windows)
+.DS_Store
+Thumbs.db
+
+# Java-specific
+*.jar
+*.war
+
+# Build/production files
+/target/
+/build/
+/bin/
