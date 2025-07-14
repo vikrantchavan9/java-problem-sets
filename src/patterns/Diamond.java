@@ -24,7 +24,6 @@ public class Diamond {
             System.out.println();
         }
     }
-    
-}
 
+}
 
