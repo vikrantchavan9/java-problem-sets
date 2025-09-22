@@ -15,6 +15,4 @@ public class CenterPyramid {
             System.out.println();
         }
     }
-
-
 }
